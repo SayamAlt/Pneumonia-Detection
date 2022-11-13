@@ -22,10 +22,6 @@ The test set consists of 624 images, with 234 Normal images and 390 Pneumonia im
 ## Python Libraries Used
 
 <ul>
-  <li>Numpy</li>
-  <li>OpenCV</li>
-  <li>Seaborn</li>
-  <li>Matplotlib</li>
   <li>Keras</li>
   <li>Tensorflow</li>
 </ul>
