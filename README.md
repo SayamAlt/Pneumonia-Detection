@@ -24,4 +24,6 @@ The test set consists of 624 images, with 234 Normal images and 390 Pneumonia im
 <ul>
   <li>Keras</li>
   <li>Tensorflow</li>
+  <li>Seaborn</li>
+  <li>Matplotlib</li>
 </ul>
